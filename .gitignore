@@ -1,0 +1,60 @@
+# Environment variables
+.env
+.env.local
+*.env
+
+# Dependencies
+node_modules/
+package-lock.json
+
+# Build outputs
+dist/
+build/
+*.apk
+*.aab
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+venv/
+env/
+
+# Supabase
+supabase/.branches/
+supabase/.temp/
+
+# Android
+*.iml
+.gradle/
+local.properties
+.idea/
+*.hprof
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# Vercel
+.vercel
+
+# DeepFace models (large files)
+.deepface/
