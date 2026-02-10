@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">IQ</string>
+    
+    <!-- Login Screen -->
+    <string name="login_title">Welcome to IQ</string>
+    <string name="login_subtitle">Sign in to continue</string>
+    <string name="user_id">User ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="show_password">Show password</string>
+    <string name="hide_password">Hide password</string>
+    
+    <!-- Student Dashboard -->
+    <string name="student_dashboard">Student Dashboard</string>
+    <string name="welcome_back">Welcome Back!</string>
+    <string name="attendance_summary">Attendance Summary</string>
+    <string name="total_days">Total Days</string>
+    <string name="present">Present</string>
+    <string name="attendance_percentage">Attendance Percentage</string>
+    <string name="recent_attendance">Recent Attendance</string>
+    <string name="view_all">View All</string>
+    
+    <!-- Teacher Dashboard -->
+    <string name="teacher_dashboard">Teacher Dashboard</string>
+    <string name="overview">Overview</string>
+    <string name="students">Students</string>
+    <string name="department_statistics">Department Statistics</string>
+    <string name="total_students">Total Students</string>
+    <string name="present_today">Present Today</string>
+    <string name="average_attendance">Average Attendance</string>
+    <string name="department_breakdown">Department Breakdown</string>
+    <string name="search_students">Search students...</string>
+    <string name="all">All</string>
+    
+    <!-- Common -->
+    <string name="logout">Logout</string>
+    <string name="profile">Profile</string>
+    <string name="loading">Loading...</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+    
+    <!-- Profile -->
+    <string name="change_password">Change Password</string>
+    <string name="current_password">Current Password</string>
+    <string name="new_password">New Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    
+    <!-- Errors -->
+    <string name="error_invalid_credentials">Invalid credentials</string>
+    <string name="error_network">Network error. Please check your connection.</string>
+    <string name="error_unknown">An unknown error occurred</string>
+    <string name="error_empty_fields">Please fill in all fields</string>
+    <string name="error_password_mismatch">Passwords do not match</string>
+</resources>
